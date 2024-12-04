@@ -1,0 +1,22 @@
+{
+  "name": "document-make",
+  "version": "1.0.2",
+  "description": "Document make",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jankrum/dm.git"
+  },
+  "keywords": [
+    "dom"
+  ],
+  "author": "jankrum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jankrum/dm/issues"
+  },
+  "homepage": "https://github.com/jankrum/dm#readme"
+}
