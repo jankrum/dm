@@ -1,4 +1,4 @@
-function dm(tag, attributes = {}, ...children) {
+export default function dm(tag, attributes = {}, ...children) {
     const element = document.createElement(tag)
 
     for (const [key, value] of Object.entries(attributes)) {
@@ -15,5 +15,3 @@ function dm(tag, attributes = {}, ...children) {
 
     return element
 }
-
-module.exports = dm
