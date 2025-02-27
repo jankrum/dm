@@ -1,6 +1,6 @@
 {
-  "name": "document-make",
-  "version": "1.0.4",
+  "name": "@jankrum/dm",
+  "version": "1.0.0",
   "description": "Document make",
   "main": "index.js",
   "scripts": {
@@ -19,4 +19,4 @@
     "url": "https://github.com/jankrum/dm/issues"
   },
   "homepage": "https://github.com/jankrum/dm#readme"
-}
+} 
