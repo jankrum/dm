@@ -1,9 +1,10 @@
 {
-  "name": "@jankrum/dm",
-  "version": "1.0.0",
+  "name": "@jankrum/document-make",
+  "version": "2.0.0",
   "description": "Document make",
   "main": "index.js",
   "scripts": {
+    "build": "node builder.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
