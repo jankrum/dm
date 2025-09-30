@@ -8,7 +8,7 @@ function addAttrsAndChildren(element, attrs, children) {
     for (const [key, value] of Object.entries(attrs)) {
         element.setAttribute(key, value)
     }
-    
+
     for (const child of children) {
         if (typeof child === 'number') {
             element.appendChild(document.createTextNode(child.toString()))
