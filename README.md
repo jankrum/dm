@@ -21,7 +21,7 @@ It is recommended to install [es6-string-html](https://marketplace.visualstudio.
 ## Usage
 
 ```javascript
-import * as dm from '../index.js'
+import * as dm from 'document-make'
 
 const label = dm.label({ for: 'file-input' }, 'Choose a cool picture: ') // makes a label with text
 const input = dm.input({ type: 'file', id: 'file-input', name: 'file-input', accept: 'image/png' }) // makes a file input with an id and name

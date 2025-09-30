@@ -1,7 +1,7 @@
 {
-  "name": "@jankrum/document-make",
-  "version": "2.0.0",
-  "description": "Document make",
+  "name": "document-make",
+  "version": "2.0.1",
+  "description": "The tool for making DOM elements quickly",
   "main": "index.js",
   "scripts": {
     "build": "node builder.mjs",
